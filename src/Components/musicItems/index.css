@@ -1,0 +1,37 @@
+.list-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.image{
+    border-radius: 5px;
+}
+.name-gen-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.name{
+    color:white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.gener{
+    color:: #3b82f6;
+    font-size: 12px;
+    font-weight: bold;
+}
+.duration-del-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.time{
+    color:white;
+    font-size: 12px;
+}
+          
+.button{
+    height: 5px;
+    width:5px
+}
